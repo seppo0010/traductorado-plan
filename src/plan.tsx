@@ -29,5 +29,5 @@ export async function getGraphData(): Promise<GraphData> {
 
 export function subjectLength(subject: number | string): number {
   const s = typeof(subject) === 'string' ? parseInt(subject) : subject
-  return (s === 137 || s === 139) ? 2 : 1
+  return [3, 11, 16, 20, 23, 30].includes(s) ? 2 : 1
 }
