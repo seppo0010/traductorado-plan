@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/traductorado-plan/static/css/main.a672b262.chunk.css",
+    "main.js": "/traductorado-plan/static/js/main.4a576a4b.chunk.js",
+    "main.js.map": "/traductorado-plan/static/js/main.4a576a4b.chunk.js.map",
+    "runtime-main.js": "/traductorado-plan/static/js/runtime-main.4234ad21.js",
+    "runtime-main.js.map": "/traductorado-plan/static/js/runtime-main.4234ad21.js.map",
+    "static/js/2.5b7a5176.chunk.js": "/traductorado-plan/static/js/2.5b7a5176.chunk.js",
+    "static/js/2.5b7a5176.chunk.js.map": "/traductorado-plan/static/js/2.5b7a5176.chunk.js.map",
+    "static/js/3.98ee4cde.chunk.js": "/traductorado-plan/static/js/3.98ee4cde.chunk.js",
+    "static/js/3.98ee4cde.chunk.js.map": "/traductorado-plan/static/js/3.98ee4cde.chunk.js.map",
+    "index.html": "/traductorado-plan/index.html",
+    "static/css/main.a672b262.chunk.css.map": "/traductorado-plan/static/css/main.a672b262.chunk.css.map",
+    "static/js/2.5b7a5176.chunk.js.LICENSE.txt": "/traductorado-plan/static/js/2.5b7a5176.chunk.js.LICENSE.txt",
+    "static/js/estimateSubjects.worker.742a693d.worker.js": "/traductorado-plan/static/js/estimateSubjects.worker.742a693d.worker.js",
+    "static/js/estimateSubjects.worker.742a693d.worker.js.LICENSE.txt": "/traductorado-plan/static/js/estimateSubjects.worker.742a693d.worker.js.LICENSE.txt",
+    "static/js/estimateSubjects.worker.742a693d.worker.js.map": "/traductorado-plan/static/js/estimateSubjects.worker.742a693d.worker.js.map",
+    "static/media/acercade_correlatividades.f7460136.jpg": "/traductorado-plan/static/media/acercade_correlatividades.f7460136.jpg",
+    "static/media/main.7f786656.dot": "/traductorado-plan/static/media/main.7f786656.dot"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4234ad21.js",
+    "static/js/2.5b7a5176.chunk.js",
+    "static/css/main.a672b262.chunk.css",
+    "static/js/main.4a576a4b.chunk.js"
+  ]
+}

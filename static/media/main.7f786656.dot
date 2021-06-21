@@ -1,0 +1,63 @@
+digraph {
+    1[label="Fonología de la lengua extranjera I"]
+    2[label="Contabilidad, Economía y Finanzas I"]
+    3[label="Lengua I: Gramática"]
+    4[label="Traducción I: Historia de la traducción y traducción técnica"]
+    5[label="Derecho I (en lengua extranjera)"]
+    6[label="Lengua española I"]
+    7[label="Fonología de la lengua extranjera II"]
+    8[label="Contabilidad, Economía y Finanzas II (en lengua extranjera)"]
+    9[label="Traducción II: Técnicas de traducción, traducción jurídica básica"]
+    10[label="Lengua española II"]
+    11[label="Lengua II: Lingüística"]
+    12[label="Estudios lingüísticos contrastivos"]
+    13[label="Traducción III: Traducción jurídica"]
+    14[label="Derecho II (en lengua extranjera)"]
+    15[label="Interpretación I"]
+    16[label="Lengua y Derecho I"]
+    17[label="Traducción IV: Traducción jurídica y económico empresarial"]
+    18[label="Régimen Legal de la Traducción y del Traductor Público"]
+    19[label="Interpretación II"]
+    20[label="Lengua y Derecho II"]
+    21[label="Traducción Inversa"]
+    22[label="Taller de traducción e interpretación consecutiva"]
+    23[label="Elementos de Derecho Penal y de Procesal Penal"]
+    24[label="Elementos de Derecho Civil (Parte General)"]
+    25[label="Elementos de Derecho Constitucional"]
+    26[label="Obligaciones Civiles y Comerciales"]
+    27[label="Elementos de Derecho Comercial"]
+    28[label="Elementos de Derecho Procesal Civil y Comercial"]
+    29[label="Elementos de Derechos Reales"]
+    30[label="Contratos Civiles y Comerciales"]
+    31[label="Derecho de Familia y Sucesiones"]
+    32[label="Sociedades Civiles y Comerciales"]
+    1->7
+    7->15
+    15->19
+    2->8
+    11->15
+    11->16
+    16->20
+    3->8
+    3->11
+    3->12
+    4->9
+    9->13
+    9->13
+    13->17
+    17->21
+    17->22
+    5->14
+    6->10
+    24->26
+    24->27
+    26->28
+    26->29
+    26->30
+    29->31
+    30->31
+    30->32
+    27->32
+    26->14
+    28->18
+}
